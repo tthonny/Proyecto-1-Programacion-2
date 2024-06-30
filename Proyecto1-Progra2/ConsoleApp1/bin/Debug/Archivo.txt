@@ -1,0 +1,15 @@
+System.Collections.Generic.Dictionary`2[System.Int32,ConsoleApp1.Registro]
+ConsoleApp1.Registro
+Nombre:AAAA, primerApellido:BBBB, segundoApellido:SSSS, correo:AAAABBBSSSS, nacionalidad:COL, estadoCivil:SOL
+Nombre:aaaa, primerApellido:bbbb, segundoApellido:ssss, correo:aaaabbbsss, nacionalidad:col, estadoCivil:sol
+Nombre:aaaa, primerApellido:bbbb, segundoApellido:ssss, correo:aaaasss, nacionalidad:col, estadoCivil:sol
+Nombre:AAAA, primerApellido:BBBB, segundoApellido:SSSS, correo:AS, nacionalidad:ARG, estadoCivil:SOL
+Nombre:AAAA, primerApellido:BBBB, segundoApellido:SSSS, correo:AAAABBBBSSSS, nacionalidad:COL, estadoCivil:SOL
+Nombre:aaaa, primerApellido:bbbb, segundoApellido:ssss, correo:aaaassssbbb, nacionalidad:COl, estadoCivil:Sol
+Nombre:aaaa, primerApellido:bbbb, segundoApellido:ssss, correo:aaaabbbbssss, nacionalidad:Col, estadoCivil:Sol
+Nombre:aaaa, primerApellido:bbbb, segundoApellido:ssss, correo:aaaassssbbbb, nacionalidad:Col, estadoCivil:Sol
+Nombre:aaaa, primerApellido:bbbb, segundoApellido:ssss, correo:aaaassssbbbb, nacionalidad:Col, estadoCivil:Sol
+Nombre:xxxx, primerApellido:aaaa, segundoApellido:ssss, correo:xxxaaasss, nacionalidad:Col, estadoCivil:Sol
+Nombre:AAAA, primerApellido:AAAA, segundoApellido:AAAA, correo:AAAA, nacionalidad:AAAA, estadoCivil:AAAA
+Nombre:AAAA, primerApellido:AAAA, segundoApellido:AAAA, correo:AAAA, nacionalidad:AAAA, estadoCivil:AAAA
+Nombre:aaaa, primerApellido:aaaa, segundoApellido:aaaa, correo:aaaa, nacionalidad:Col, estadoCivil:Sol
